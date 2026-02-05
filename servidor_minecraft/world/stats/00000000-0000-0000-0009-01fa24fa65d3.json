@@ -1,0 +1,55 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 10810,
+      "minecraft:walk_one_cm": 93583,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 654,
+      "minecraft:damage_taken": 50,
+      "minecraft:damage_dealt": 1000,
+      "minecraft:play_time": 18000,
+      "minecraft:jump": 379,
+      "minecraft:time_since_death": 18000,
+      "minecraft:sprint_one_cm": 52180,
+      "minecraft:open_chest": 9,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 5225,
+      "minecraft:swim_one_cm": 13335,
+      "minecraft:total_world_time": 18000,
+      "minecraft:fly_one_cm": 48563,
+      "minecraft:walk_on_water_one_cm": 2259,
+      "minecraft:crouch_one_cm": 100,
+      "minecraft:sneak_time": 1394,
+      "minecraft:climb_one_cm": 577
+    },
+    "minecraft:killed": {
+      "minecraft:iron_golem": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:cyan_bed": 1,
+      "minecraft:hay_block": 30,
+      "minecraft:dead_bush": 1,
+      "minecraft:stick": 7,
+      "minecraft:sand": 24,
+      "minecraft:iron_ingot": 5
+    },
+    "minecraft:crafted": {
+      "minecraft:wheat": 243
+    },
+    "minecraft:used": {
+      "minecraft:hay_block": 3,
+      "minecraft:sand": 11,
+      "minecraft:bread": 2,
+      "minecraft:dead_bush": 1
+    },
+    "minecraft:mined": {
+      "minecraft:sand": 24,
+      "minecraft:potted_dead_bush": 1,
+      "minecraft:cyan_bed": 1,
+      "minecraft:tall_dry_grass": 1,
+      "minecraft:dead_bush": 7,
+      "minecraft:hay_block": 30
+    }
+  },
+  "DataVersion": 4671
+}
